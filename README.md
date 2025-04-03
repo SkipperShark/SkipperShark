@@ -1,4 +1,4 @@
-Learning the arcane ways of bits
+Learning the curious and ever-changing ways of arcane magic
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67eb9f6508b58aed6c07df7b?variant=dark)](https://roadmap.sh)
 <!--
